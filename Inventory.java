@@ -1,7 +1,7 @@
 package Assignment2;
 import java.text.DecimalFormat;
 import java.util.*;
-public class Inventory { // super class of Finance
+public abstract class Inventory { // super class of Finance
 	
 	protected String itemCode, itemName;
 	protected int itemQuantity;	
