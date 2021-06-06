@@ -129,7 +129,7 @@ public class Customer extends ProductDescription implements Payment{ //2.1 Inher
 	}
 		
 	
-			}
+	}
 	
 	public double totalPrice() {
 		return this.quantityItem * this.price;
