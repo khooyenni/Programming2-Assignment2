@@ -2,7 +2,6 @@ package Assignment2;
 import java.util.*;
 public abstract class PersonalCareShop { //Super class of employee
 	
-	//1.2 Pre-Define Class
 	protected String storeName, phoneNumber;  
 	protected int yearEstablished;
 	
